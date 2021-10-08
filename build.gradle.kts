@@ -138,7 +138,7 @@ kotlin {
     sourceSets {
         val commonMain by getting {
             dependencies {
-                api("io.github.jan-tennert.discordkm:DiscordKM:0.4.1")
+                api("io.github.jan-tennert.discordkm:DiscordKM:0.4.2")
             }
         }
         val commonTest by getting
