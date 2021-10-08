@@ -1,6 +1,6 @@
 # DiscordKM-Utils
 
-DiscordKM-Utils provide some easy to use utilities like ButtonPaginators
+DiscordKM-Utils provide some easy to use utilities like ButtonPaginators [![Maven Central](https://img.shields.io/maven-central/v/io.github.jan-tennert.discordkm/DiscordKM-Lavalink)](https://search.maven.org/artifact/io.github.jan-tennert.discordkm/DiscordKM-Utils)
 
 
 # Example
